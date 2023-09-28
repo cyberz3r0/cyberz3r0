@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **reidsl0716@gmail.com**
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools I've worked with</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
