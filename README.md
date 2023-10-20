@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Samuel Reid</h1>
-<h3 align="left">I'm an IT professional turned Full Stack Developer with a focus on Backend Development.</h3>
+<h3 align="left">I'm an IT professional turned Full Stack Developer with a focus on, but not limited to, Backend Development.</h3>
 
 - 🔭 I’m currently working on [Wordle Clone](https://github.com/cyberz3r0/Wordle_Clone)
 
