@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Samuel Reid</h1>
 <h3 align="left">I'm an IT professional turned Full Stack Developer with a focus on, but not limited to, Backend Development.</h3>
 
-- 🔭 I’m currently working on [Automation Script]([https://github.com/cyberz3r0/Wordle_Clone](https://github.com/cyberz3r0/Automation-Scripts))
+- 🔭 I’m currently working on [Automation Script](https://github.com/cyberz3r0/Automation-Scripts)
 
 - 🌱 I’m currently learning **React, and Python GUI- Kivy**
 
